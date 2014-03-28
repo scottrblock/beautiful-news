@@ -1,4 +1,4 @@
-beautiful-news
+Better WorldStar
 ==============
 
-giving news sites a beautiful reading experience
+making WorldStar more usable.
